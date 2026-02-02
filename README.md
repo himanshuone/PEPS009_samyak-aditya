@@ -17,10 +17,10 @@ This repository is designed to be your **last-minute revision guide** and **codi
 5. **Mini Projects**: Practical application of concepts.
 
 ## 🛠️ **How to Study**
-1. **Start with `01-variables-scope`**: Build a strong base.
-2. **Focus on `INTERVIEW-NOTES.md`**: Read this before every interview.
-3. **Solve `QUESTIONS.md`**: Try to predict outputs before running code.
-4. **Practice**: Open the `practice.js` file in each folder and solve the TODOs.
+1. **Core Learning**: Go to the `core/` folder to study concepts (Read-Only).
+2. **Student Submission**: Create your own folder in `students/` (e.g., `students/rahul-123`).
+3. **Practice**: Copy mini-projects or assignments into your folder to work on them.
+4. **Interview Prep**: Read `INTERVIEW-NOTES.md` before coding.
 
 ## 💡 **Interview Focus**
 - Don't just memorize syntax. Understand **how** JS works under the hood.
